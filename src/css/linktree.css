@@ -1,0 +1,46 @@
+body {
+  background-color: #fff4dd;
+}
+
+#linktree {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  width: 60px;
+}
+
+#link-list {
+  list-style: none;
+  padding: 0;
+}
+
+.link-item {
+  margin-bottom: 10px;
+}
+
+.link-item a {
+  display: block;
+  padding: 10px;
+  background-color: #f1711cd0;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+#linktree a {
+  font-size: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+#linktree a:hover {
+  color: #dd2a02;
+}
