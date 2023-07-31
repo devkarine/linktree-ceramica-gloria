@@ -21,7 +21,7 @@ var links = [
   },
 
   {
-    text: "Vendas/Thiago",
+    text: "Vendas/Jaqueline",
     url: "https://api.whatsapp.com/send?phone=5535984212943",
   },
 
